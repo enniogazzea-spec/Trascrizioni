@@ -28,6 +28,6 @@
 
 | Colore | Stato |
 | :---: | :---: | 
-! 🟢 | Pubblicato |
-! 🟡 | in lavorazione |
-! 🔴 | Non Pubblicato |
+| 🟢 | Pubblicato |
+| 🟡 | in lavorazione |
+| 🔴 | Non Pubblicato |
