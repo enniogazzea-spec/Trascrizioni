@@ -22,7 +22,7 @@
 | 🔴 | <sub>1996</sub> | <sub>Eros Ramazzotti</sub> | <sub>L'aurora</sub> | <sub>Dove c'è musica</sub> | <sub>Nathan East</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>2000</sub> | <sub>Eros Ramazzotti</sub> | <sub>Fuoco nel fuoco</sub> | <sub>Stilelibero</sub> | <sub>Reggie Hamilton</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>1985</sub> | <sub>Zucchero</sub> | <sub>Donne</sub> | <sub>Zucchero & The Randy Jackson Band</sub> | <sub>Randy Jackson</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | <sub>1986</sub> | <sub>Zucchero</sub> | <sub>Rispetto</sub> | <sub>Rispetto</sub> | <sub>Randy Jackson</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🟡 | <sub>1986</sub> | <sub>Zucchero</sub> | <sub>Rispetto</sub> | <sub>Rispetto</sub> | <sub>Randy Jackson</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 
 <br>
 
