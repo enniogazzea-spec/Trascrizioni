@@ -11,6 +11,7 @@
 | 🔴 | <sub>1970</sub> | <sub>Fabrizio&nbsp;De&nbsp;André</sub> | <sub>Il&nbsp;pescatore</sub> | <sub>Volume&nbsp;3&nbsp;(Ristampa&nbsp;1970)</sub> | <sub>N/D&nbsp;(Arr.&nbsp;G.P.&nbsp;Reverberi)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1979</sub> | <sub>Fabrizio&nbsp;De&nbsp;André&nbsp;&amp;&nbsp;PFM</sub> | <sub>Il&nbsp;pescatore</sub> | <sub>In&nbsp;concerto&nbsp;(Arr.&nbsp;PFM)</sub> | <sub>Patrick&nbsp;Djivas</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1965</sub> | <sub>Pino&nbsp;Donaggio</sub> | <sub>Io&nbsp;che&nbsp;non&nbsp;vivo&nbsp;(senza&nbsp;te)</sub> | <sub>Pino&nbsp;Donaggio</sub> | <sub>N/D&nbsp;(Orch.&nbsp;Gianfranco&nbsp;Intra)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
+| 🔴 | <sub>1961</sub> | <sub>Nico&nbsp;Fidenco</sub> | <sub>Legata&nbsp;a&nbsp;un&nbsp;granello&nbsp;di&nbsp;sabbia</sub> | <sub>Nico&nbsp;Fidenco</sub> | <sub>N/D&nbsp;(Arr.&nbsp;Luis&nbsp;Bacalov)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1969</sub> | <sub>Maurizio</sub> | <sub>L'amore&nbsp;è&nbsp;blu...&nbsp;ma&nbsp;ci&nbsp;sei&nbsp;tu!</sub> | <sub>Maurizio</sub> | <sub>N/D&nbsp;(Prod.&nbsp;Pierangelo&nbsp;Codevilla)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1970</sub> | <sub>Mina</sub> | <sub>Viva&nbsp;Lei</sub> | <sub>Mina&nbsp;Studio&nbsp;Collection</sub> | <sub>Pino&nbsp;Presti</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1979</sub> | <sub>Michele&nbsp;Pecora</sub> | <sub>Era&nbsp;lei</sub> | <sub>Singolo&nbsp;(45&nbsp;giri)</sub> | <sub>N/D&nbsp;(Arr.&nbsp;Alberto&nbsp;Nicorelli)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
