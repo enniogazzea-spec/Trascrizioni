@@ -1,6 +1,6 @@
 ### WishList
 
-| Stato | Anno | Artista | Brano | Album | Bassista |
-| :---: | :--- | :--- | :--- | :--- | :--- |
-| 🟢 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti |
-| 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson |
+| Stato | Anno | Artista | Brano | Album | Bassista | Difficoltà |
+| :---: | :--- | :--- | :--- | :--- | :--- | :---: |
+| ![Verde Scuro](https://shields.io) | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `🟩🟩🟩🟨⬜⬜⬜⬜⬜` |
+| ![Rosso Scuro](https://shields.io) | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `🟩🟩🟩🟨🟨🟨🟥⬜⬜` |
