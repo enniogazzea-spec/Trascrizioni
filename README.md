@@ -1,9 +1,9 @@
 ### WishList
 
-| Stato | Anno | Artista | Brano | Album | Bassista | Difficoltà | Pubblicazione |
-| :---: | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| 🔴 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
-| 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
+| Country | Stato | Anno | Artista | Brano | Album | Bassista | Difficoltà | Pubblicazione |
+| :---:| :---: | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
+|:it:| 🔴 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
+|:it:| 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
 
 
 <br>
