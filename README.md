@@ -30,7 +30,7 @@
 | 🔴 | <sub>2000</sub> | <sub>Eros&nbsp;Ramazzotti</sub> | <sub>Fuoco&nbsp;nel&nbsp;fuoco</sub> | <sub>Stilelibero</sub> | <sub>Reggie&nbsp;Hamilton</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1974</sub> | <sub>I&nbsp;Santo&nbsp;California</sub> | <sub>Tornerò</sub> | <sub>Se&nbsp;davvero&nbsp;mi&nbsp;vuoi&nbsp;bene...&nbsp;Tornerò</sub> | <sub>Domenico&nbsp;Aiello</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
 | 🔴 | <sub>1963</sub> | <sub>Edoardo&nbsp;Vianello</sub> | <sub>Abbronzatissima</sub> | <sub>Io&nbsp;sono&nbsp;Edoardo</sub> | <sub>N/D&nbsp;(Arr.&nbsp;Ennio&nbsp;Morricone)</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
-| 🔴 | <sub>1985</sub> | <sub>Zucchero</sub> | <sub>Donne</sub> | <sub>Zucchero&nbsp;&amp;&nbsp;The&nbsp;Randy&nbsp;Jackson&nbsp;Band</sub> | <sub>Randy&nbsp;Jackson</sub> | <sub>`⬜⬜⬜⬜⬜⬜⬜⬜⬜`</sub> |
+| 🔴 | <sub>1985</sub> | <sub>Zucchero</sub> | <sub>Donne</sub> | <sub>Zucchero&nbsp;&amp;&nbsp;The&nbsp;Randy&nbsp;Jackson&nbsp;Band</sub> | <sub>Randy&nbsp;Jackson</sub> | <sub>`🟩🟩🟩🟨⬜⬜⬜⬜⬜`</sub> |
 | 🟡 | <sub>1986</sub> | <sub>Zucchero</sub> | <sub>Rispetto</sub> | <sub>Rispetto</sub> | <sub>Randy&nbsp;Jackson</sub> | <sub>`🟩🟩🟩🟨🟨🟨⬜⬜⬜`</sub> |
 
 <br>
