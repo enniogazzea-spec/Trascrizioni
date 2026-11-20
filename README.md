@@ -31,3 +31,11 @@
 | 🟢 | Pubblicato |
 | 🟡 | in lavorazione |
 | 🔴 | Non Pubblicato |
+
+
+• 🇮🇹 Italia
+• 🇺🇸 Stati Uniti
+• 🇬🇧 Regno Unito
+• 🇫🇷 Francia
+• 🇧🇷 Brasile
+• 🇩🇪 Germania
