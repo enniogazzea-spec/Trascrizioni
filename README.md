@@ -1,55 +1,51 @@
 ### WishList
 
-| Stato | Anno | Artista | Brano | Album | Bassista | Difficoltà | Pubblicazione |
+| <sub>Stato</sub> | <sub>Anno</sub> | <sub>Artista</sub> | <sub>Brano</sub> | <sub>Album</sub> | <sub>Bassista</sub> | <sub>Difficoltà</sub> | <sub>Pubblicazione</sub> |
 | :---: | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| 🔴 | 1979 | Umberto Balsamo | Balla | Balla | Paul Westwood | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1977 | Umberto Balsamo | Malgrado Tutto... l'angelo azzurro | L'angelo azzurro | Bob Callero | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
-| 🔴 | 1969 | Lucio Battisti | La spada nel cuore | Le avventure di Lucio Battisti e Mogol | Damiano Dattoli | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | 
-| 🔴 | 1976 | Gianni Bella | Non si può morire dentro | Sogni di un robot | N/D (Orch. Franco Monaldi) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1974 | Gianni Bella | Più ci penso | Sogni di un robot | N/D (Orch. Franco Monaldi) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
-| 🔴 | 1979 | Michele Pecora | Era lei | Singolo (45 giri) | N/D (Arr. Alberto Nicorelli) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1984 | Eros Ramazzotti | Terra promessa | Cuori agitati | Synth Bass (Arr. Celso Valli) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1985 | Eros Ramazzotti | Una storia importante | Cuori agitati | Synth Bass (Arr. Celso Valli) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1986 | Eros Ramazzotti | Adesso tu | Nuovi eroi | Synth Bass (Arr. Celso Valli) | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1987 | Eros Ramazzotti | La luce buona delle stelle | In certi momenti | Paolo Costa | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1988 | Eros Ramazzotti | Musica è | Musica è | Paolo Costa | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1990 | Eros Ramazzotti | Se bastasse una canzone | In ogni senso | John Giblin | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1990 | Eros Ramazzotti | Amarti è l'immenso per me | In ogni senso | Neil Stubenhaus | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1993 | Eros Ramazzotti | Cose della vita | Tutte storie | Paolo Gianolio | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1993 | Eros Ramazzotti | Un'altra te | Tutte storie | Tony Levin | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1996 | Eros Ramazzotti | Più bella cosa | Dove c'è musica | Paolo Gianolio | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1996 | Eros Ramazzotti | L'aurora | Dove c'è musica | Nathan East | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 2000 | Eros Ramazzotti | Fuoco nel fuoco | Stilelibero | Reggie Hamilton | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1985 | Zucchero | Donne | Zucchero & The Randy Jackson Band | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-| 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
-
+| 🔴 | <sub>1979</sub> | <sub>Umberto Balsamo</sub> | <sub>Balla</sub> | <sub>Balla</sub> | <sub>Paul Westwood</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1977</sub> | <sub>Umberto Balsamo</sub> | <sub>L'angelo azzurro</sub> | <sub>Malgrado tutto... l'angelo azzurro</sub> | <sub>Bob Callero</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1969</sub> | <sub>Lucio Battisti</sub> | <sub>La spada nel cuore</sub> | <sub>Le avventure di Lucio Battisti e Mogol</sub> | <sub>Damiano Dattoli</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1976</sub> | <sub>Gianni Bella</sub> | <sub>Non si può morire dentro</sub> | <sub>Sogni di un robot</sub> | <sub>N/D (Orch. Franco Monaldi)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1974</sub> | <sub>Gianni Bella</sub> | <sub>Più ci penso</sub> | <sub>Sogni di un robot</sub> | <sub>N/D (Orch. Franco Monaldi)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1970</sub> | <sub>Mina</sub> | <sub>Viva Lei</sub> | <sub>Mina Studio Collection</sub> | <sub>Pino Presti</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1979</sub> | <sub>Michele Pecora</sub> | <sub>Era lei</sub> | <sub>Singolo (45 giri)</sub> | <sub>N/D (Arr. Alberto Nicorelli)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1984</sub> | <sub>Eros Ramazzotti</sub> | <sub>Terra promessa</sub> | <sub>Cuori agitati</sub> | <sub>Synth Bass (Arr. Celso Valli)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1985</sub> | <sub>Eros Ramazzotti</sub> | <sub>Una storia importante</sub> | <sub>Cuori agitati</sub> | <sub>Synth Bass (Arr. Celso Valli)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1986</sub> | <sub>Eros Ramazzotti</sub> | <sub>Adesso tu</sub> | <sub>Nuovi eroi</sub> | <sub>Synth Bass (Arr. Celso Valli)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1987</sub> | <sub>Eros Ramazzotti</sub> | <sub>La luce buona delle stelle</sub> | <sub>In certi momenti</sub> | <sub>Paolo Costa</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1988</sub> | <sub>Eros Ramazzotti</sub> | <sub>Musica è</sub> | <sub>Musica è</sub> | <sub>Paolo Costa</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1990</sub> | <sub>Eros Ramazzotti</sub> | <sub>Se bastasse una canzone</sub> | <sub>In ogni senso</sub> | <sub>John Giblin</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1990</sub> | <sub>Eros Ramazzotti</sub> | <sub>Amarti è l'immenso per me</sub> | <sub>In ogni senso</sub> | <sub>Neil Stubenhaus</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1993</sub> | <sub>Eros Ramazzotti</sub> | <sub>Cose della vita</sub> | <sub>Tutte storie</sub> | <sub>Paolo Gianolio</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1993</sub> | <sub>Eros Ramazzotti</sub> | <sub>Un'altra te</sub> | <sub>Tutte storie</sub> | <sub>Tony Levin</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1996</sub> | <sub>Eros Ramazzotti</sub> | <sub>Più bella cosa</sub> | <sub>Dove c'è musica</sub> | <sub>Paolo Gianolio</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1996</sub> | <sub>Eros Ramazzotti</sub> | <sub>L'aurora</sub> | <sub>Dove c'è musica</sub> | <sub>Nathan East</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>2000</sub> | <sub>Eros Ramazzotti</sub> | <sub>Fuoco nel fuoco</sub> | <sub>Stilelibero</sub> | <sub>Reggie Hamilton</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1985</sub> | <sub>Zucchero</sub> | <sub>Donne</sub> | <sub>Zucchero & The Randy Jackson Band</sub> | <sub>Randy Jackson</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
+| 🔴 | <sub>1986</sub> | <sub>Zucchero</sub> | <sub>Rispetto</sub> | <sub>Rispetto</sub> | <sub>Randy Jackson</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 
 <br>
 
 ### Legenda Difficoltà
 
-| Scala | VU Meter | Livello |
+| <sub>Scala</sub> | <sub>VU Meter</sub> | <sub>Livello</sub> |
 | :---: | :---: | :--- |
-| **1/9** | `🟩⬜⬜⬜⬜⬜⬜⬜⬜` | Molto Facile |
-| **2/9** | `🟩🟩⬜⬜⬜⬜⬜⬜⬜` | Facile |
-| **3/9** | `🟩🟩🟩⬜⬜⬜⬜⬜⬜` | Base |
-| **4/9** | `🟩🟩🟩🟨⬜⬜⬜⬜⬜` | Medio-Basso |
-| **5/9** | `🟩🟩🟩🟨🟨⬜⬜⬜⬜` | Medio |
-| **6/9** | `🟩🟩🟩🟨🟨🟨⬜⬜⬜` | Medio-Alto |
-| **7/9** | `🟩🟩🟩🟨🟨🟨🟥⬜⬜` | Difficile |
-| **8/9** | `🟩🟩🟩🟨🟨🟨🟥🟥⬜` | Molto Difficile |
-| **9/9** | `🟩🟩🟩🟨🟨🟨🟥🟥🟥` | Estremo |
+| <sub>**1/9**</sub> | `🟩⬜⬜⬜⬜⬜⬜⬜⬜` | <sub>Molto Facile</sub> |
+| <sub>**2/9**</sub> | `🟩🟩⬜⬜⬜⬜⬜⬜⬜` | <sub>Facile</sub> |
+| <sub>**3/9**</sub> | `🟩🟩🟩⬜⬜⬜⬜⬜⬜` | <sub>Base</sub> |
+| <sub>**4/9**</sub> | `🟩🟩🟩🟨⬜⬜⬜⬜⬜` | <sub>Medio-Basso</sub> |
+| <sub>**5/9**</sub> | `🟩🟩🟩🟨🟨⬜⬜⬜⬜` | <sub>Medio</sub> |
+| <sub>**6/9**</sub> | `🟩🟩🟩🟨🟨🟨⬜⬜⬜` | <sub>Medio-Alto</sub> |
+| <sub>**7/9**</sub> | `🟩🟩🟩🟨🟨🟨🟥⬜⬜` | <sub>Difficile</sub> |
+| <sub>**8/9**</sub> | `🟩🟩🟩🟨🟨🟨🟥🟥⬜` | <sub>Molto Difficile</sub> |
+| <sub>**9/9**</sub> | `🟩🟩🟩🟨🟨🟨🟥🟥🟥` | <sub>Estremo</sub> |
 
 <br>
 
-### Legenda Difficoltà
+### Legenda Stato
 
-| Colore | Stato |
-| :---: | :---: | 
-| 🟢 | Pubblicato |
-| 🟡 | in lavorazione |
-| 🔴 | Non Pubblicato |
-
-
-
+| <sub>Colore</sub> | <sub>Stato</sub> |
+| :---: | :---: |
+| 🟢 | <sub>Pubblicato</sub> |
+| 🟡 | <sub>In lavorazione</sub> |
+| 🔴 | <sub>Non Pubblicato</sub> |
