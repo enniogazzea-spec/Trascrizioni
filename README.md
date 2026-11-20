@@ -7,7 +7,6 @@
 | 🔴 | <sub>1969</sub> | <sub>Lucio&nbsp;Battisti</sub> | <sub>La&nbsp;spada&nbsp;nel&nbsp;cuore</sub> | <sub>Le&nbsp;avventure&nbsp;di&nbsp;Lucio&nbsp;Battisti&nbsp;e&nbsp;Mogol</sub> | <sub>Damiano&nbsp;Dattoli</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>1976</sub> | <sub>Gianni&nbsp;Bella</sub> | <sub>Non&nbsp;si&nbsp;può&nbsp;morire&nbsp;dentro</sub> | <sub>Sogni&nbsp;di&nbsp;un&nbsp;robot</sub> | <sub>N/D&nbsp;(Orch.&nbsp;Franco&nbsp;Monaldi)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>1974</sub> | <sub>Gianni&nbsp;Bella</sub> | <sub>Più&nbsp;ci&nbsp;penso</sub> | <sub>Sogni&nbsp;di&nbsp;un&nbsp;robot</sub> | <sub>N/D&nbsp;(Orch.&nbsp;Franco&nbsp;Monaldi)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
-
 | 🔴 | <sub>1976</sub> | <sub>Pierangelo&nbsp;Bertoli</sub> | <sub>Eppure&nbsp;soffia</sub> | <sub>Eppure&nbsp;soffia</sub> | <sub>Bruno&nbsp;Crovetto</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>1970</sub> | <sub>Fabrizio&nbsp;De&nbsp;André</sub> | <sub>Il&nbsp;pescatore</sub> | <sub>Volume&nbsp;3&nbsp;(Ristampa&nbsp;1970)</sub> | <sub>N/D&nbsp;(Arr.&nbsp;G.P.&nbsp;Reverberi)</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
 | 🔴 | <sub>1979</sub> | <sub>Fabrizio&nbsp;De&nbsp;André&nbsp;&amp;&nbsp;PFM</sub> | <sub>Il&nbsp;pescatore</sub> | <sub>In&nbsp;concerto&nbsp;(Arr.&nbsp;PFM)</sub> | <sub>Patrick&nbsp;Djivas</sub> | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` | |
