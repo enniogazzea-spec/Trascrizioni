@@ -2,8 +2,8 @@
 
 | Country | Stato | Anno | Artista | Brano | Album | Bassista | Difficoltà | Pubblicazione |
 | :---: | :---: | :--- | :--- | :--- | :--- | :--- | :---: | :---: |
-| :it: | 🔴 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
-| :it: | 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
+| ![IT](https://flagcdn.com) | 🔴 | 1970 | Mina | Viva Lei | Mina Studio Collection | Pino Presti | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
+| ![IT](https://flagcdn.com) | 🔴 | 1986 | Zucchero | Rispetto | Rispetto | Randy Jackson | `⬜⬜⬜⬜⬜⬜⬜⬜⬜` ||
 
 
 <br>
